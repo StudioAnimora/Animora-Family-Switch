@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-animora-family-switch"
+version = "1.0.1"
+description = "Group-based switch for ComfyUI: put each model family (Anima / SDXL-Pony-Illustrious / Krea) in its own titled group, then one click turns that group on and mutes the others. Does not auto-detect families or trace connections; nodes must be grouped. Saves the chosen group and node stacking order across sessions."
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/StudioAnimora/Animora-Family-Switch"
+
+[tool.comfy]
+PublisherId = "studioanimora"
+DisplayName = "Animora Family Switch"
+Icon = ""
