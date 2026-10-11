@@ -27,7 +27,7 @@ git clone https://github.com/StudioAnimora/Animora-Family-Switch AnimoraFamilySw
 ```
 Restart ComfyUI and hard-refresh the browser (Ctrl+F5). It's JS only, so there's no pip step.
 
-**Manual:** copy this folder to `ComfyUI/custom_nodes/AnimoraFamilySwitch` and restart.
+**Manual:** copy this folder to `ComfyUI/custom_nodes/` and restart
 
 No other packs are needed. It reads normal ComfyUI groups, and also understands Pixaroma groups and Set/Get nodes if you use them.
 
